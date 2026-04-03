@@ -74,7 +74,7 @@ Setup is fully done automatically by the start.py file! Just open terminal and l
 python start.py
 ```
 Or for manual setup follow these steps: 
-## Backend Setup
+#### Backend Setup
 Open a terminal and start the backend service:
 ```bash
 cd backend
@@ -91,7 +91,7 @@ uvicorn main:app --reload
 ```
 The backend will run at: `http://localhost:8000`
 
-## 5. Frontend Setup
+#### Frontend Setup
 Open a second terminal and start the React app:
 ```bash
 cd frontend
