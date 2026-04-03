@@ -117,7 +117,10 @@ The application will launch on your browser at: `http://localhost:3000`
 
 ---
 
-## 👩‍💻 Developed For
+## 👩‍💻 Developed By:
+#Team MCS:
+### Juluru Raghava Pranav (Team Lead) 
+### Ashish Sheelam 
 Built competitively for **HACKFUSION-2K26** (Vibecoding Track) at JNTU, Hyderabad.
 
 <div align="center">
