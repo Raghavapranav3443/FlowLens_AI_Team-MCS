@@ -68,8 +68,13 @@ Create a `.env` file in the root directory (you can copy from `env.example`):
 GROQ_API_KEY="gsk_your_groq_key_here"
 GEMINI_API_KEY="AIza_your_gemini_key_here"
 ```
-
-### 4. Backend Setup
+### 4. Setup :
+Setup is fully done automatically by the start.py file! Just open terminal and launch the file:
+```bash
+python start.py
+```
+Or for manual setup follow these steps: 
+## Backend Setup
 Open a terminal and start the backend service:
 ```bash
 cd backend
@@ -86,7 +91,7 @@ uvicorn main:app --reload
 ```
 The backend will run at: `http://localhost:8000`
 
-### 5. Frontend Setup
+## 5. Frontend Setup
 Open a second terminal and start the React app:
 ```bash
 cd frontend
